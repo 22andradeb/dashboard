@@ -38,10 +38,10 @@ p, span, label, li { font-size: 17px !important; }
 /* ── PAGE TITLE ── */
 h1 {
     font-family: 'Syne', sans-serif !important;
-    font-size: 5.2rem !important;
+    font-size: 8.2rem !important;
     font-weight: 800 !important;
     color: #0a0a0a !important;
-    letter-spacing: -0.04em !important;
+    letter-spacing: -0.08em !important;
     line-height: 1 !important;
 }
 h2 {

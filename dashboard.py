@@ -38,7 +38,7 @@ p, span, label, li { font-size: 17px !important; }
 /* ── PAGE TITLE ── */
 h1 {
     font-family: 'Syne', sans-serif !important;
-    font-size: 3.2rem !important;
+    font-size: 5.2rem !important;
     font-weight: 800 !important;
     color: #0a0a0a !important;
     letter-spacing: -0.04em !important;
@@ -80,7 +80,7 @@ h3 {
 }
 [data-testid="metric-container"] label,
 [data-testid="metric-container"] [data-testid="stMetricLabel"] p {
-    font-size: 13px !important;
+    font-size: 19px !important;
     font-weight: 700 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.1em !important;
@@ -88,7 +88,7 @@ h3 {
 }
 [data-testid="stMetricValue"] {
     font-family: 'Syne', sans-serif !important;
-    font-size: 3rem !important;
+    font-size: 4.6rem !important;
     font-weight: 800 !important;
     color: #0a0a0a !important;
     line-height: 1.1 !important;
